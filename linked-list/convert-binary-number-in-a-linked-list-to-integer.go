@@ -5,6 +5,7 @@
  *     Next *ListNode
  * }
  */
+ 
 func getDecimalValue(head *ListNode) int {
     var res int
     for head != nil {
