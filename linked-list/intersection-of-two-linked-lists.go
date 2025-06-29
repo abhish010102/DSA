@@ -22,6 +22,7 @@
 // 	return nil
 // }
 
+
 // use map
 func getIntersectionNode(headA, headB *ListNode) *ListNode {
 	ml := make(map[*ListNode]bool)
