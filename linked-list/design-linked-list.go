@@ -23,7 +23,7 @@ func (this *MyLinkedList) Get(index int) int {
     } 
     if(h!=nil){
         return h.Val
-    }
+    } 
     return -1
 }
 
